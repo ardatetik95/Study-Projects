@@ -1,4 +1,11 @@
+Credits:
 This work is a study copy of the work from Angelina Frimpongs Exploring Data in SQL and Tableau | Cohort Retention Analysis | Data Analyst Projects | SQL Projects video
 Link to video: https://www.youtube.com/watch?v=LXqpx9mr0Is&list=PL3QIj0dCAeARnHKdYGIEQ--mFFlSb0FNL&index=6&ab_channel=AngelinaFrimpong
 
+What is Cohort and Cohort Analysis?
+A cohort is used to determine and understand the behaviour of the customers, finding patterns and trends, categorizing customeres and finding their needs
 Cohort Retention Rate Analysis is used to see how many percent of the customers returned for the second month and continued taking the service or product
+
+Purpose of this project:
+For this project, we used a fictional Online Retail dataset which had Invoice, item info, order quantities, order dates, unit prices, customer IDs and Country info. Using these informations, we wanted to see how many customers
+continued to order in the following months.
